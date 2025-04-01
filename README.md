@@ -1,4 +1,7 @@
 # Diabetic retinopathy prediction in patients 
+# StreamLit App Link
+https://diabetic-retinopathy-prediction-in-patients.streamlit.app/
+
 
 ## 📌 Overview
 This project aims to predict whether a patient has diabetic retinopathy using machine learning. It is a **binary classification** problem, where the target variable has two values: 
